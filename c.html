@@ -10,7 +10,7 @@
 		?>
         
 
-        <form action="all.php" method="post">
+        <form action="a.html" method="post">
             你的id: <input type="test" name="YourName"><br>
             選擇餐廳:<select name="favorite" id="country" required>
                 <optgroup label="女二"> 
